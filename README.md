@@ -30,7 +30,7 @@ O projeto utiliza a **criptografia simétrica** com a biblioteca `cryptography` 
 
 ## **Criptografar um Arquivo**
 
-1. Execute o script `encrypt.py`:
+1. Execute o script `criptografar.py`:
 
    python encrypt.py
 Quando solicitado, insira o nome do arquivo que será criptografado (incluindo a extensão).
@@ -45,9 +45,9 @@ Após a execução, o arquivo estará criptografado.
 Descriptografar um Arquivo
 Certifique-se de que o arquivo key.key gerado anteriormente está na mesma pasta do projeto.
 
-Execute o script decrypt.py:
+Execute o script descriptografar.py:
 
-python decrypt.py
+
 Quando solicitado, insira o nome do arquivo criptografado que deseja descriptografar (incluindo a extensão).
 
 O programa realizará os seguintes passos:
